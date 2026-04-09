@@ -5,3 +5,6 @@
 * salt
 ## Instructions
 Smash avocado and add lemon & salt
+
+## Time
+
