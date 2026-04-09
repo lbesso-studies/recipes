@@ -7,6 +7,7 @@
 Smash avocado and add lemon & salt
 
 ## Time
+Roughly 10-15 mins
 
 ## Price
 * avocado ~£1
